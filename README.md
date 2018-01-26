@@ -1,0 +1,2 @@
+# CSocketghd
+c++ about socket
